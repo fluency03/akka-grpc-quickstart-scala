@@ -1,0 +1,6 @@
+[0m[[0m[0minfo[0m] [0m[0mCompiling 1 protobuf files to /Users/fluency03/Workplace/gRPC/akka-grpc-quickstart-scala/target/scala-2.12/src_managed/main,/Users/fluency03/Workplace/gRPC/akka-grpc-quickstart-scala/target/scala-2.12/src_managed/main[0m
+[0m[[0m[0mdebug[0m] [0m[0mprotoc options:[0m
+[0m[[0m[0minfo[0m] [0m[0mCompiling schema /Users/fluency03/Workplace/gRPC/akka-grpc-quickstart-scala/src/main/protobuf/helloworld.proto[0m
+[0m[[0m[0minfo[0m] [0m[0mCompiling protobuf[0m
+[0m[[0m[0minfo[0m] [0m[0mProtoc target directory: /Users/fluency03/Workplace/gRPC/akka-grpc-quickstart-scala/target/scala-2.12/src_managed/main[0m
+[0m[[0m[0minfo[0m] [0m[0mProtoc target directory: /Users/fluency03/Workplace/gRPC/akka-grpc-quickstart-scala/target/scala-2.12/src_managed/main[0m

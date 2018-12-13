@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ivy-report.xsl"?>
+<ivy-report version="1.0">
+	<info
+		organisation="default"
+		module="akka-grpc-quickstart-scala$sources"
+		revision="1.0"
+		conf="javaagent"
+		confs="compile, runtime, test, provided, optional, protobuf, compile-internal, runtime-internal, test-internal, plugin, pom, scala-tool, javaagent"
+		date="20181213161912"/>
+	<dependencies>
+		<module organisation="org.mortbay.jetty.alpn" name="jetty-alpn-agent">
+			<revision name="2.0.7" status="release" pubdate="20180117141048" resolver="sbt-chain" artresolver="sbt-chain" homepage="https://github.com/jetty-project/jetty-alpn-agent" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="0">
+				<license name="Apache License, Version 2.0" url="http://www.apache.org/licenses/LICENSE-2.0"/>
+				<metadata-artifact status="no" details="" size="3635" time="0" location="/Users/fluency03/.ivy2/cache/org.mortbay.jetty.alpn/jetty-alpn-agent/ivy-2.0.7.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/mortbay/jetty/alpn/jetty-alpn-agent/2.0.7/jetty-alpn-agent-2.0.7.pom"/>
+				<caller organisation="default" name="akka-grpc-quickstart-scala$sources" conf="javaagent" rev="2.0.7" rev-constraint-default="2.0.7" rev-constraint-dynamic="2.0.7" callerrev="1.0"/>
+				<artifacts>
+					<artifact name="jetty-alpn-agent" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="1705336" time="12183" location="/Users/fluency03/.ivy2/cache/org.mortbay.jetty.alpn/jetty-alpn-agent/srcs/jetty-alpn-agent-2.0.7-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/mortbay/jetty/alpn/jetty-alpn-agent/2.0.7/jetty-alpn-agent-2.0.7-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+	</dependencies>
+</ivy-report>

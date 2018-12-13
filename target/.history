@@ -1,0 +1,3 @@
+;set _root_.scala.collection.Seq(shellPrompt := { _ => "" },SettingKey[_root_.scala.Option[_root_.sbt.File]]("sbtStructureOutputFile") in _root_.sbt.Global := _root_.scala.Some(_root_.sbt.file("/private/var/folders/83/qs13x44d1fzgyxjtjf34xrtm0000gn/T/sbt-structure.xml")),SettingKey[_root_.java.lang.String]("sbtStructureOptions") in _root_.sbt.Global := "download, resolveClassifiers");apply -cp "/Users/fluency03/Library/Application Support/IntelliJIdea2018.1/Scala/launcher/sbt-structure-1.0.jar" org.jetbrains.sbt.CreateTasks;*/*:dumpStructure
+exit
+{file:/Users/fluency03/Workplace/gRPC/akka-grpc-quickstart-scala/}akka-grpc-quickstart-scala/compile

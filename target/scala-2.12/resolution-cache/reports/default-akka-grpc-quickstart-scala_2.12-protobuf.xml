@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ivy-report.xsl"?>
+<ivy-report version="1.0">
+	<info
+		organisation="default"
+		module="akka-grpc-quickstart-scala_2.12"
+		revision="1.0"
+		conf="protobuf"
+		confs="compile, runtime, test, provided, optional, protobuf, compile-internal, runtime-internal, test-internal, plugin, pom, scala-tool, javaagent"
+		date="20181213161821"/>
+	<dependencies>
+	</dependencies>
+</ivy-report>
